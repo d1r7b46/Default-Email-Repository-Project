@@ -1,7 +1,7 @@
-# Email Account Repository Project
+# Default Email Repository Project
 
 ## Description
-The Email Account Repository Project is a curated collection of default email account formats tailored to various industries. It aims to provide a comprehensive resource for anyone for whatever reason they want it for, but as a heads up it is being created from a red-teaming/pentesting perspective. 
+The Default Email Repository Project is a curated collection of default email account formats tailored to various industries. It aims to provide a comprehensive resource for anyone for whatever reason they want it for, but as a heads up it is being created from a red-teaming/pentesting perspective. 
 
 ## Features
 1. **Industry-Specific Formats:** The repository includes default email account formats commonly used in various industries such as technology, healthcare, finance, education, and more.
