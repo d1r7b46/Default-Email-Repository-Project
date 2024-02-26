@@ -12,5 +12,8 @@ The Default Email Repository Project is a curated collection of default email ac
 ## How to Contribute
 Contributing to the Default Email Repository Project is easy! Simply fork the repository, make your changes or additions following the provided guidelines, and submit a pull request. Your contributions will be reviewed by the community, and once approved, they will be merged into the main repository for others to benefit from. If you do not want to be associated please simply DM me on LinkedIn (https://www.linkedin.com/in/angsec/) or Discord (d1r7b46). 
 
+
+## List Details
+
 ### 1-Big-@$$-List
 Everything, all together.
