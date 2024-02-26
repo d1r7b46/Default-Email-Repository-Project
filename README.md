@@ -5,7 +5,7 @@ Welcome to DERP.
 The Default Email Repository Project is a curated collection of default email account formats tailored to various industries. It aims to provide a comprehensive resource for anyone for whatever reason they want it for, but as a heads up it is being created from a red-teaming/pentesting perspective. 
 
 ## Features
-1. **Industry-Specific Formats:** The repository includes default email account formats commonly used in various industries such as technology, healthcare, finance, education, and more.
+1. **Industry-Specific Formats:** The repository includes default email distros/shared/service accounts commonly used in various industries such as technology, healthcare, finance, education, and more.
 2. **Contributions:** Users are encouraged to contribute to the repository by adding new industry-specific email formats, updating existing ones, or suggesting improvements.
 5. **Open Source:** The project is open source.
 
