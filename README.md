@@ -25,4 +25,4 @@ This list is included in all lists, it is also being provided as a standalone.
 
 
 ## Contributors
-Alex Maloof - https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAB8fsR8BAF5qz6MjZgzYyqOjJTrcIGB44jI&keywords=alexander%20maloof%20📧&origin=RICH_QUERY_SUGGESTION&position=0&searchId=c10a55d3-1c8e-4a5c-9685-563b1418257b&sid=71V&spellCorrectionEnabled=false
+[Alex Maloof](https://www.linkedin.com/in/alexander-maloof/)https://www.linkedin.com/in/alexander-maloof/
