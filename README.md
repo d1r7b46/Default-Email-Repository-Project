@@ -26,3 +26,7 @@ This list is included in all lists, it is also being provided as a standalone.
 
 ## Contributors
 [Alex Maloof](https://www.linkedin.com/in/alexander-maloof/)
+
+
+## Tool Buddies
+See https://github.com/d1r7b46/DERP_Generator which uses the Big-@$$-List
