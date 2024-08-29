@@ -25,7 +25,7 @@ This list is included in all lists, it is also being provided as a standalone.
 
 
 ## Contributors
-[Alex Maloof](https://www.linkedin.com/in/alexander-maloof/)
+[Alex Maloof](https://www.linkedin.com/in/alexander-maloof/) <br>
 [Damien Miller-McAndrews "syne0"](https://www.linkedin.com/in/damien-miller-mcandrews/)
 
 
